@@ -1,0 +1,25 @@
+
+[
+    {
+      "classroom_number": "101",
+      "capacity": 40,
+      "type": "Classroom",
+      "courses": "course1",
+      "home_department": "AI&DS"
+    },
+    {
+      "classroom_number": "102",
+      "capacity": 30,
+      "type": "Lab",
+      "courses": "course2",
+      "home_department": "COMPS"
+    },
+    {
+      "classroom_number": "103",
+      "capacity": 50,
+      "type": "Classroom",
+      "courses": "course3",
+      "home_department": "BSH"
+    }
+  ]
+  

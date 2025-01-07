@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "name": "John Doe",
+      "subject": "Mathematics",
+      "department": "AI&DS"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "subject": "Computer Science",
+      "department": "COMPS"
+    },
+    {
+      "id": "3",
+      "name": "Robert Brown",
+      "subject": "Physics",
+      "department": "BSH"
+    }
+  ]
+  

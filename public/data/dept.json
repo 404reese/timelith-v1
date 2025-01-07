@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Artificial Intelligence and Data Science",
+      "acronym": "AI&DS"
+    },
+    {
+      "name": "Basic Sciences and Humanities",
+      "acronym": "BSH"
+    },
+    {
+      "name": "Computer Science",
+      "acronym": "COMPS"
+    },
+    {
+      "name": "Information Technology",
+      "acronym": "IT"
+    },
+    {
+      "name": "Electronics and Telecommunication",
+      "acronym": "EXTC"
+    }
+  ]

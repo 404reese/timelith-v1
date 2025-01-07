@@ -2,7 +2,6 @@
 "use client";
 
 import Sidebar from '@/components/Sidebar';
-import Footer from '@/components/Footer';
 import { ReactNode } from 'react';
 import { useState } from 'react';
 
@@ -22,9 +21,6 @@ export default function ProtectedLayout({ children }: { children: ReactNode }) {
       >
         {children}
       </main>
-
-      {/* Footer */}
-      <Footer />
     </div>
   );
 }

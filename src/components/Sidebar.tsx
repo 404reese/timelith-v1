@@ -34,7 +34,7 @@ export default function Sidebar({ isCollapsed, toggleCollapse }: SidebarProps) {
 
   return (
     <div
-      className={`flex flex-col fixed mb-4  h-screen transition-width duration-300  border-r border-[var(--border)] ${
+      className={`flex flex-col fixed mb-4  h-screen transition-width duration-300  rounded-lg border border-gray-200 p-4 m-2 ${
         isCollapsed ? "w-16 p-2" : "w-64 p-4"
       } bg-[var(--background)] text-[var(--foreground)]`}
     >
@@ -67,7 +67,7 @@ export default function Sidebar({ isCollapsed, toggleCollapse }: SidebarProps) {
           { href: "/classrooms", icon: <FaDoorOpen className="w-6 h-6" />, label: "Classrooms" },
           { href: "/divisions", icon: <SiGoogleclassroom className="w-6 h-6" />, label: "Divisions" },
           { href: "/timeslots", icon: <IoMdTimer className="w-6 h-6" />, label: "Timeslots" },
-          { href: "/generation-page", icon: <FaWandMagicSparkles className="w-6 h-6" />, label: "Generation Page" },
+          { href: "/gen-page", icon: <FaWandMagicSparkles className="w-6 h-6" />, label: "Generation Page" },
         ].map(({ href, icon, label }) => (
           <li key={label} className="mb-2">
             <a

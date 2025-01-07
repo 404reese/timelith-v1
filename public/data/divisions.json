@@ -1,0 +1,24 @@
+[
+    {
+      "department": "AI&DS",
+      "year": "FY",
+      "division": "A",
+      "strength": 60,
+      "batch": 3
+    },
+    {
+      "department": "COMPS",
+      "year": "SY",
+      "division": "B",
+      "strength": 50,
+      "batch": 2
+    },
+    {
+      "department": "IT",
+      "year": "TY",
+      "division": "C",
+      "strength": 45,
+      "batch": 4
+    }
+  ]
+  

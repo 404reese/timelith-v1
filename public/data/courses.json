@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "courseCode": "CS101",
+      "courseName": "Introduction to Computer Science",
+      "semester": "1",
+      "lecturesPerWeek": "3",
+      "department": "COMPS",
+      "type": "lecture",
+      "periodDuration": 1
+    },
+    {
+      "id": 2,
+      "courseCode": "CS102",
+      "courseName": "Data Structures",
+      "semester": "2",
+      "lecturesPerWeek": "4",
+      "department": "COMPS",
+      "type": "lecture",
+      "periodDuration": 2
+    }
+  ]
+  
